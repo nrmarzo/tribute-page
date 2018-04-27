@@ -1,0 +1,26 @@
+body {
+  color: white;
+  background: #080808;
+}
+
+blockquote footer {
+  font-size: 18px;
+  color: #bebebe;
+}
+
+#content {
+  width: 70%;
+  background: #282828;
+}
+
+.well {
+  background: #282828;
+}
+
+.body-container h3 {
+  font-weight: bold;
+}
+
+.body-container p {
+  font-size: 17px;
+}
